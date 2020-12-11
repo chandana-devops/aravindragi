@@ -1,5 +1,5 @@
 <html>
 <body>
-<h1 style="color: pink">jenkins job!!</h1>
+<h1 style="color: orange">jenkins job scusess</h1>
 </body>
 </html>
